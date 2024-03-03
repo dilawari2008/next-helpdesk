@@ -1,3 +1,8 @@
+Spin up localhost 4000 for mock data using
+### json-server --watch --port 4000 ./_data/db.json
+run - npm run build for production build
+
+## NextJs instructions
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
